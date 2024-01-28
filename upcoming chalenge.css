@@ -1,0 +1,88 @@
+header > h1 {
+  font-family: Verdana, Geneva, Tahoma, "Times New Roman";
+  color: black;
+  text-align: center;
+  padding: 10px;
+  margin: 10px 12px 5px 3px;
+  border: 10px;
+  background-color: chocolate;
+  border-radius: 10px;
+  box-shadow: 10px 20px 30px;
+}
+
+h1 {
+  text-align: center;
+  
+}
+
+a {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: aquamarine;
+border-radius: 40px;
+border: 30px;
+}
+
+h1.fuckmeWithClass {
+  font-family: Verdana, Geneva, Tahoma, "Times New Roman";
+  color: black;
+  text-align: center;
+  padding: 10px;
+  margin: 10px 12px 5px 3px;
+  border: 10px;
+  background-color: chocolate;
+  border-radius: 10px;
+}
+
+#fuckmeWithId {
+  font-family: Verdana, Geneva, Tahoma, "Times New Roman";
+  color: black;
+  text-align: center;
+  padding: 10px;
+  margin: 10px 12px 5px 3px;
+  border: 10px;
+  background-color: chocolate;
+  border-radius: 10px;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: blueviolet;
+  text-align: center;
+}
+
+li {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; list-style: none;
+  font-style: italic;
+  color: tomato;
+  border-radius: 50px;
+  margin: 20px;
+  padding: 10px;
+  border: 30px;
+  display: flow-root;
+}
+body {
+  background-color: teal;
+}
+
+#description {
+  background: whitesmoke;
+  border: 1px;
+  border-radius: 30px;
+  padding: 20px;
+  margin: 10px;
+}
+
+#dailygoal {
+  margin: 10px;
+  color: rgb(10, 20, 40);
+  font-weight: bold;
+}
+
+span.ingredient {
+    color: black;
+}
